@@ -1878,7 +1878,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Heroes (Weak Against):**
   - **Templar Assassin:** Refraction charges completely absorb Sven's massive individual God's Strength hits, and Meld armor reduction pierces his Warcry armor bonus.
   - **Troll Warlord:** Whirling Axes (Melee) blinds Sven, and Battle Trance allows Troll to out-manfight him while rooting him in place with Berserker's Rage.
-  - **Winter Wyvern:** Cold Embrace renders Sven's primary target completely immune to his physical God's Strength burst, and Winter's Curse forces Sven to cleave his own team to death.
+  - **Winter Wyvern:** Cold Embrace renders Sven's primary target completely immune to his physical God's Strength burst, and Winter's Curse forces a God's Strength Sven to kill the cursed teammate in a few swings.
   - **Shadow Demon:** Demonic Purge pierces debuff immunity to continuously slow Sven during God's Strength and BKB, making it impossible for him to stay on targets.
 - **Counter Items:**
   - **Ghost Scepter / Ethereal Blade:** Makes the user or an ally completely immune to Sven's physical right-clicks and Great Cleave during God's Strength.
@@ -2293,7 +2293,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Meepo:** Casting Winter's Curse on one Meepo clone forces all the other nearby Meepo clones to attack their own brother at boosted attack speed, resulting in an inescapable self-kill.
   - **Troll Warlord:** Cold Embrace completely nullifies Troll Warlord's exclusively physical damage during Battle Trance, and Winter's Curse uses Troll's insane Fervor attack speed to murder his own teammates.
   - **Legion Commander:** Cold Embrace cast on an allied Duel target makes them completely immune to Legion Commander's physical attacks for four seconds, denying her Duel victory damage every time.
-  - **Sven:** Cold Embrace saves any ally jumped by Sven during God's Strength, and Winter's Curse forces a God's Strength Sven to cleave and two-shot his own nearby teammates.
+  - **Sven:** Cold Embrace saves any ally jumped by Sven during God's Strength, and Winter's Curse forces a God's Strength Sven to two-shot the cursed teammate with his massive single-target right-click damage.
 
 ### Witch Doctor (Intelligence)
 - **Key Weakness:** Witch Doctor is a fragile support who must channel Death Ward from relatively close range and relies on Voodoo Switcheroo's brief invulnerability window to survive jumps.

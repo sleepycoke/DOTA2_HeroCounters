@@ -4,3 +4,4 @@ Unlike most tools giving a numerical result from machine learning, this yields n
 
 Please feel free to use it or contribute to it. 
 
+Most recent DOTA2 update: 7.41f. 

@@ -1034,7 +1034,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 ### Luna (Agility)
 - **Key Weakness:** Luna has very short attack range, low base HP, and no escape mechanism, and Eclipse becomes weak when enemies have debuff immunity or creep waves nearby to soak beams.
 - **Counter Heroes (Weak Against):**
-  - **Phantom Lancer:** Floods the fight with Juxtapose illusions that soak up all of Eclipse's Lucent Beams and overwhelm Luna in melee range with Diffusal mana burn.
+  - **Phantom Lancer:** Floods the fight with Juxtapose illusions that soak up all of Eclipse's Lucent Beams while Phantom Rush closes the gap to overwhelm Luna in melee range.
   - **Meepo:** Traps Luna with Earthbind and bursts her down rapidly while spreading Eclipse damage harmlessly across multiple clones.
   - **Lina / Sniper:** Out-range Luna's 330 base attack range by a huge margin, punishing her before she can ever step into right-click or Eclipse range.
   - **Bristleback:** Turns his back to absorb Moon Glaives bounces, triggering massive nasal goo/quill spray stacks across Luna and her entire team.
@@ -1131,7 +1131,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Invoker:** EMP burns a large percentage of Medusa's mana pool in an instant, while Tornado, Ice Wall, and Deafening Blast kite her immobile frame.
   - **Dark Seer:** Wall of Replica creates a full-strength Medusa illusion with Split Shot that decimates Medusa's own team in teamfights.
 - **Counter Items:**
-  - **Diffusal Blade / Disperser:** Burns mana on every physical hit from heroes and illusions, shredding through Mana Shield far faster than raw damage.
+  - **Diffusal Blade / Disperser:** Burns mana on every physical hit from the wielding hero, shredding through Mana Shield faster than raw damage in the early-to-mid game.
   - **Heaven's Halberd:** Disarms Medusa for an extended duration (as a ranged hero), shutting down her Split Shot damage output in fights.
   - **Crimson Guard:** Blocks a flat amount of physical damage from every Split Shot arrow across the entire team.
   - **Wind Waker / Force Staff:** Allows heroes to kite away and disengage whenever Medusa activates Stone Gaze.
@@ -1436,7 +1436,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Crystal Maiden:** Stifling Dagger and Phantom Strike allow PA to eliminate fragile, low-armor backline supports like Crystal Maiden in a single Coup de Grace crit.
 
 ### Phantom Lancer (Agility)
-- **Key Weakness:** Relies on swarming targets with low-health Juxtapose illusions and mana burn, making him weak to heavy AoE magical/cleave damage and area crowd control.
+- **Key Weakness:** Relies on swarming targets with low-health Juxtapose illusions and sustained melee pressure, making him weak to heavy AoE magical/cleave damage and area crowd control.
 - **Counter Heroes (Weak Against):**
   - **Leshrac:** Pulse Nova and Split Earth deal continuous, massive AoE magical damage around Leshrac, clearing Juxtapose illusions as fast as Phantom Lancer can spawn them.
   - **Earthshaker:** Echo Slam scales exponentially with every Juxtapose illusion present, turning Phantom Lancer's army into an instant lethal nuke against himself and his teammates.
@@ -1448,9 +1448,9 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Shiva's Guard:** Arctic Blast deals AoE magic damage that immediately reveals which Phantom Lancer has the real health pool, slows illusion attack speed, and reduces his healing.
   - **Radiance:** Inflicts a 15% AoE miss chance and constant magical burn that weakens Juxtapose illusions and prevents Phantom Lancer from blinking if he buys Blink Dagger.
 - **Heroes Countered (Strong Against):**
-  - **Wraith King:** Juxtapose illusions with Diffusal Blade burn away all of Wraith King's mana in seconds, preventing Reincarnation unless Wraith King has a shard/talent or BKB timing.
+  - **Wraith King:** Doppelganger dodges Wraithfire Blast while Juxtapose swarms overwhelm Wraith King's strictly single-target Mortal Strike right-clicks and kite him endlessly across fights.
   - **Viper:** Doppelganger dispels Viper Strike and Poison Attack, and Viper's purely single-target kit has no way to clear or identify the real Phantom Lancer among his illusions.
-  - **Clockwerk:** Doppelganger allows Phantom Lancer and his illusions to hop straight out of Power Cogs while surrounding Clockwerk and draining his mana pool.
+  - **Clockwerk:** Doppelganger allows Phantom Lancer and his illusions to hop straight out of Power Cogs while Juxtapose illusions dilute Battery Assault procs across the swarm.
   - **Slardar:** Doppelganger immediately cleanses Corrosive Haze on a low cooldown, and Slardar lacks any AoE damage to deal with Juxtapose swarms.
 
 ### Phoenix (Strength)
@@ -2116,7 +2116,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Heroes (Weak Against):**
   - **Windranger:** Windrun grants 100% evasion against Ursa's Overpower attacks while slowing him, and Focus Fire lets her kite and melt him from range while running away.
   - **Viper:** Nethertoxin applies Break to disable Fury Swipes—cutting Ursa's damage output to almost nothing—while Viper Strike pierces BKB to slow him through Enrage.
-  - **Phantom Lancer:** Surrounds Ursa with dozens of Juxtapose illusions so he cannot find the real target to stack Fury Swipes on, while draining his mana with Diffusal Blade.
+  - **Phantom Lancer:** Surrounds Ursa with dozens of Juxtapose illusions and resets target tracking with Doppelganger so Ursa wastes Overpower stacks without building Fury Swipes on the real hero.
   - **Razor:** Static Link steals Ursa's physical damage even through BKB and Enrage, while Storm Surge makes Razor too fast for Ursa to catch.
 - **Counter Items:**
   - **Ghost Scepter / Ethereal Blade:** Renders the target completely immune to Ursa's physical Overpower and Fury Swipes burst damage.
@@ -2317,7 +2317,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Key Weakness:** Wraith King is a slow, kiteable melee core who requires sufficient mana (prior to level 20 talent) to trigger Reincarnation and struggles against illusion/mana-burn heroes.
 - **Counter Heroes (Weak Against):**
   - **Anti-Mage:** Mana Break burns away Wraith King's mana pool before he dies so Reincarnation cannot trigger prior to level 20, and Blink easily kites him across fights.
-  - **Phantom Lancer:** Surrounds Wraith King with Juxtapose illusions that drain his mana with Diffusal Blade and overwhelm his strictly single-target Mortal Strike right-clicks.
+  - **Phantom Lancer:** Surrounds Wraith King with Juxtapose illusions that overwhelm his strictly single-target Wraithfire Blast and Mortal Strike right-clicks while Doppelganger easily dodges his stun.
   - **Undying:** Decay steals Wraith King's strength repeatedly, and when Wraith King revives from Reincarnation, he comes back with the reduced max HP from all accumulated Decay stacks.
   - **Invoker:** EMP drains a huge chunk of Wraith King's mana pool in teamfights, while Cold Snap, Tornado, and Ice Wall kite him effortlessly through both of his lives.
 - **Counter Items:**

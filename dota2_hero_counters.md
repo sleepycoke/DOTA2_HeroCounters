@@ -4,10 +4,11 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 
 > [!TIP]
 > **Universal Counter Mechanics Quick Reference**
-> - **Break** (*Silver Edge, Viper's Nethertoxin, Hoodwink's Scepter, Shadow Demon's Demonic Cleanse*): Disables passive abilities (e.g., Bristleback, Spectre's Dispersion, Phantom Assassin's Blur, Huskar's Berserker's Blood, Tidehunter's Kraken Shell).
-> - **Heal / Regeneration Reduction** (*Spirit Vessel, Shiva's Guard, Eye of Skadi, Orb of Corrosion, Ancient Apparition's Ice Blast, Doom*): Shuts down high-sustain and lifesteal cores (e.g., Huskar, Alchemist, Morphling, Necrophos, Io, Mundo-style tanks).
-> - **Nullifier** (*Continuous Basic Dispel*): Strips positive buffs and prevents enemies from using Ghost Scepter, Ethereal Blade, Force Staff, Glimmer Cape, Eul's Scepter, Aeon Disk, or kit buffs like Windrun and Magnetic Flux.
-> - **Mana Burn & Silence** (*Diffusal Blade, Disperser, Orchid Malevolence, Bloodthorn, Anti-Mage, Nyx Assassin*): Cripples low-cooldown mobility spirits (Storm, Ember, Void, Puck) and high-cost spellcasters (Medusa, Wraith King, Timber, Largo).
+> - **Break** (*Silver Edge, Viper's Nethertoxin, Hoodwink's Sharpshooter, Shadow Demon's Demonic Cleanse*): Disables passive and breakable innate abilities (e.g., Bristleback, Spectre's Dispersion, Phantom Assassin's Immaterial, Terrorblade's Dark Unity, Huskar's Berserker's Blood, Tidehunter's Kraken Shell); Silver Edge's Break duration scales with the attacker's Item Potency.
+> - **Heal / Regeneration Reduction** (*Spirit Vessel, Shiva's Guard, Eye of Skadi, Orb of Corrosion, Ancient Apparition's Ice Blast, Doom*): Shuts down high-sustain and lifesteal cores (e.g., Huskar, Alchemist, Morphling, Necrophos, Io, Death Prophet).
+> - **Nullifier** (*Continuous Basic Dispel + Anti-Save*): Strips positive buffs, prevents enemies from using Ghost Scepter, Ethereal Blade, Glimmer Cape, Eul's Scepter, Aeon Disk, or Windrun, and reduces ally-applied forced movement (such as Force Staff or Caduceus) on the target by 60%.
+> - **Item Potency & Mana Burn / Silence** (*Diffusal Blade, Disperser, Eye of Skadi, Orchid Malevolence, Bloodthorn, Anti-Mage, Nyx Assassin*): On-hit item effects scale with **Item Potency** (100% on heroes, 20% default on illusions, 35% on Manta Style illusions, 100% on Chaos Knight's Phantasm), letting illusions apply Manabreak and Cold Attack at scaled values while silences cripple mobility spirits and spellcasters.
+> - **Debuff Immunity, Leashes & Disarm** (*Black King Bar, Heaven's Halberd, Skypiercer*): Spells that pierce debuff immunity no longer ignore the magic resistance granted by BKB/Rage; leashes that do not pierce debuff immunity (e.g., Slark's Pounce, base Dream Coil) no longer block movement spells; and Heaven's Halberd / **Skypiercer** apply a 3-second disarm on both melee and ranged targets.
 
 ---
 
@@ -76,9 +77,9 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Heroes (Weak Against):**
   - **Legion Commander:** Duel locks Anti-Mage in place through debuff immunity with Blade Mail active, forcing him to attack himself to death with Mana Break and preventing him from using Blink.
   - **Axe:** Berserker's Call pierces debuff immunity and bypasses Counterspell because it is a non-targeted AoE taunt, holding Anti-Mage down while Counter Helix deals pure damage.
-  - **Phantom Assassin:** Stifling Dagger and Phantom Strike dish out overwhelming physical burst damage that completely ignores Counterspell's passive magic resistance, and Blur allows her to farm and ambush him undetectable on the minimap.
+  - **Phantom Assassin:** Stifling Dagger and Phantom Strike dish out overwhelming physical burst damage that completely ignores Counterspell's passive magic resistance, while Immaterial evades his attacks and Blur's True-Sight-immune vanish lets her ambush him undetectable on the minimap.
   - **Meepo:** Earthbind chains root Anti-Mage to disable Blink for extended periods, and Meepo's early power timing overwhelms Anti-Mage's jungle before he comes online.
-  - **Huskar:** Huskar's innate Blood Magic gives him zero max mana, completely nullifying Mana Break's bonus damage and Mana Void, while his early Armlet timing and Aghanim's Scepter Life Break taunt lock down and overrun Anti-Mage before he can farm.
+  - **Huskar:** Huskar's innate Blood Magic gives him zero max mana, completely nullifying Mana Break's bonus damage and Mana Void, while his early Armlet / Sabatons of Mordiggian timing and Aghanim's Scepter Life Break taunt lock down and overrun Anti-Mage before he can farm.
 - **Counter Items:**
   - **Orchid Malevolence / Bloodthorn:** Silences Anti-Mage instantly from fog before he can react with Counterspell or Blink, forcing him to rush Manta Style or Black King Bar to survive ganks.
   - **Scythe of Vyse:** Instant hex with zero cast-point animation gives Anti-Mage virtually no time to activate Counterspell's reflection shell unless pre-cast.
@@ -165,7 +166,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Chen:** Sticky Napalm and Firefly slow and melt Chen's entire creep army at once while Flamebreak knocks his grouped summons out of position.
 
 ### Beastmaster (Universal)
-- **Key Weakness:** Beastmaster relies on his summoned Boars and Hawk (or Wild Axes amp) for lane dominance and Primal Roar for single-target lockdown, making him vulnerable to summon-consuming abilities, strong dispels, and spell reflection.
+- **Key Weakness:** Beastmaster relies on his summoned Boars, Hawk, and Aghanim's Scepter Ancient Thunderhide (or Wild Axes amp) for lane and push dominance alongside Primal Roar for single-target lockdown, making him vulnerable to summon-consuming abilities, strong dispels, and spell reflection.
 - **Counter Heroes (Weak Against):**
   - **Enchantress:** Enchant takes control of Beastmaster's Boars in lane and turns them against him, while Untouchable slows his Inner Beast attack speed aura.
   - **Chen:** Holy Persuasion permanently steals Beastmaster's Boars, neutral creeps, or dominated units, turning Beastmaster's zoo push into Chen's own army.
@@ -293,7 +294,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Naga Siren:** Hoof Stomp and Double Edge deal heavy AoE magical damage on low cooldowns that wipe out Mirror Image illusions, while Retaliate punishes illusions hitting Centaur.
 
 ### Chaos Knight (Strength)
-- **Key Weakness:** Chaos Knight relies heavily on his Phantasm illusions for burst damage and farming, leaving him crippled by AoE abilities and items that instantly destroy or turn illusions against him.
+- **Key Weakness:** Chaos Knight relies heavily on uninterrupted Ahead, Armageddon momentum (halted by stuns, hexes, fears, and banishes) and his Phantasm illusions (which retain 100% Item Potency for on-hit items) for burst damage, leaving him crippled by AoE abilities and items that instantly destroy or turn illusions against him.
 - **Counter Heroes (Weak Against):**
   - **Earthshaker:** Fissure, Enchant Totem, and Echo Slam stun all Phantasm illusions simultaneously and deal multiplied echo damage the moment Chaos Knight casts Reality Rift.
   - **Sven:** God's Strength combined with Great Cleave obliterates all Phantasm illusions in a few swings while Warcry's armor bonus mitigates Reality Rift's armor reduction.
@@ -311,14 +312,14 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Bane:** Phantasm creates multiple tanky illusions that overwhelm Bane's strictly single-target kit, and activation of Phantasm dodges incoming projectiles and dispels debuffs.
 
 ### Chen (Intelligence)
-- **Key Weakness:** Chen's entire early-to-mid game tempo depends on keeping his Holy Persuasion creep army alive and pushing towers before enemy cores scale, making him vulnerable to creep-executing abilities, AoE wave clear, and anti-healing.
+- **Key Weakness:** Chen's entire early-to-mid game tempo depends on keeping his Holy Persuasion creep army and anointed Zealot creep-hero alive to push towers before enemy cores scale, making him vulnerable to creep-stealing/executing abilities on his non-Zealot army, AoE wave clear, and anti-healing.
 - **Counter Heroes (Weak Against):**
-  - **Enchantress:** Enchant steals Chen's strongest Holy Persuasion creeps with a low cooldown and uses them against him right in lane or during tower pushes.
-  - **Doom:** Devour instantly eats Chen's strongest dominated creep regardless of its boosted HP pool, and Doom's ultimate blocks Hand of God's healing on the doomed target.
+  - **Enchantress:** Enchant steals Chen's non-Zealot Holy Persuasion creeps on a low cooldown and uses them against him right in lane or during tower pushes.
+  - **Doom:** Devour instantly eats Chen's strongest non-Zealot dominated creep regardless of its boosted HP pool, and Doom's ultimate blocks Hand of God's healing on the doomed target.
   - **Ancient Apparition:** Ice Blast completely negates Hand of God's global burst heal and health regeneration as well as Divine Favor's regen aura across Chen's entire team.
-  - **Sven:** Great Cleave and God's Strength scale rapidly to one-shot Chen's entire creep army in the mid-to-late game, turning his summons into free gold.
+  - **Sven:** Great Cleave and God's Strength scale rapidly to wipe out Chen's entire creep army (including his Zealot) in a few swings in the mid-to-late game.
 - **Counter Items:**
-  - **Hand of Midas:** Transmute instantly kills one of Chen's tanky Holy Persuasion creeps for bonus gold and experience, dismantling his early push timing.
+  - **Hand of Midas:** Transmute instantly kills one of Chen's tanky non-Zealot Holy Persuasion creeps for bonus gold and experience, dismantling his early push numbers.
   - **Spirit Vessel / Shiva's Guard:** Reduces the healing output of Hand of God and the passive health regeneration provided by Divine Favor and creep auras.
   - **Overwhelming Blink / Crimson Guard:** Mitigates physical push damage from Chen's creep army or slows their attack and movement speeds in AoE.
   - **Nullifier:** Dispels Penitence attack speed buffs or defensive creep buffs (such as Ogre Frostmage armor or Wildwing shields) during engagements.
@@ -457,7 +458,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Faceless Void:** As long as Dazzle positions outside Chronosphere, Shallow Grave keeps the trapped ally alive through the entire duration of Faceless Void's right-click barrage.
 
 ### Death Prophet (Universal)
-- **Key Weakness:** Death Prophet relies on sustaining through fights with Spirit Siphon and dealing sustained physical damage over time with Exorcism, making her vulnerable to burst damage, healing reduction, and kiting that breaks Spirit Siphon links.
+- **Key Weakness:** Death Prophet has a short 500 attack range and relies on sustaining through fights with Spirit Siphon, Witchcraft attack ghosts, and sustained physical damage from Exorcism, making her vulnerable to burst damage, healing reduction, and kiting that breaks Spirit Siphon links.
 - **Counter Heroes (Weak Against):**
   - **Ancient Apparition:** Ice Blast completely disables Spirit Siphon's health drain healing and Exorcism's end-of-duration heal, allowing teams to burst Death Prophet down rapidly.
   - **Sven:** Warcry grants massive bonus armor to the entire team, drastically reducing the physical damage dealt by Exorcism's spirits while God's Strength bursts Death Prophet down.
@@ -508,7 +509,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Storm Spirit:** Doom's ultimate applies a long, undispellable silence and mute that completely disables Ball Lightning, turning Storm Spirit into a slow, fragile right-clicker who dies easily.
   - **Timbersaw:** Doom disables Timber Chain and Whirling Death while preventing all health regeneration from Reactive Armor, stripping Timbersaw of both his mobility and his sustain.
   - **Anti-Mage:** Doom pierces debuff immunity (and prevents Blink, Counterspell, Manta Style, and Black King Bar activation), locking Anti-Mage out of the fight for up to 16 seconds.
-  - **Chen:** Devour instantly eats Chen's strongest Holy Persuasion neutral creep in a single bite, and Doom blocks Hand of God's healing on the doomed target.
+  - **Chen:** Devour instantly eats Chen's strongest non-Zealot Holy Persuasion neutral creep in a single bite, and Doom blocks Hand of God's healing on the doomed target.
 
 ### Dragon Knight (Strength)
 - **Key Weakness:** Dragon Knight has slow farming speed without Elder Dragon Form and struggles against heroes who shred his Dragon Blood armor/regen or drain his strength and mana in sustained fights.
@@ -537,7 +538,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Clockwerk:** Hookshot initiates on Drow Ranger from up to 3000 units away, and Power Cogs + Battery Assault keep Clockwerk within 400 range so Marksmanship never activates.
 - **Counter Items:**
   - **Blink Dagger:** Allows any melee core or initiator to immediately close the distance into Drow Ranger's 400-unit Marksmanship deadzone before she can cast Gust.
-  - **Heaven's Halberd:** Disarms Drow Ranger for up to 5 seconds on ranged targets, stopping her from firing Frost Arrows and giving melee heroes time to close the gap.
+  - **Heaven's Halberd / Skypiercer:** Disarms Drow Ranger for 3 seconds once an initiator closes within 500 range (with Skypiercer rapidly recharging its cooldown in close quarters), stopping her from firing Frost Arrows.
   - **Ghost Scepter / Ethereal Blade:** Protects supports and fragile heroes from Drow Ranger's extreme physical right-click damage and Multishot arrows.
   - **Blade Mail:** Reflects Drow Ranger's massive physical damage and Multishot salvos back into her low HP pool when she is unable to stop attacking.
 - **Heroes Countered (Strong Against):**
@@ -553,7 +554,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Heroes (Weak Against):**
   - **Abaddon:** Aphotic Shield dispels Geomagnetic Grip's silence and Magnetize's damage-over-time, and Abaddon can deliberately stand in front of Rolling Boulder during Borrowed Time to stop Earth Spirit in place.
   - **Oracle:** Fortune's End purges Magnetize off multiple teammates at once in an AoE, completely shutting down Earth Spirit's teamfight damage output.
-  - **Puck:** Phase Shift dodges Rolling Boulder and Boulder Smash effortlessly, and Dream Coil prevents Earth Spirit from using Rolling Boulder to escape without getting stunned.
+  - **Puck:** Phase Shift dodges Rolling Boulder and Boulder Smash effortlessly, and Dream Coil forces Earth Spirit to stay tethered or snap the coil and get stunned if he uses Rolling Boulder to escape.
   - **Underlord:** Pit of Malice repeatedly roots Earth Spirit in an AoE, completely disabling Rolling Boulder and trapping him after he initiates into a fight.
 - **Counter Items:**
   - **Black King Bar:** Dispels Magnetize upon activation and blocks Boulder Smash stuns, Geomagnetic Grip silences, and Rolling Boulder slows.
@@ -599,7 +600,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Heroes Countered (Strong Against):**
   - **Morphling:** Morphling shifts almost all of his stats into Agility for massive base armor, and Natural Order removes 100% of his base armor, leaving Morphling with near-zero armor so he dies in two hits.
   - **Terrorblade:** Terrorblade has the highest base armor in the game from his Agility growth, which Natural Order completely strips to zero while Echo Stomp puts his Conjure Image illusions to sleep.
-  - **Meepo:** Meepo relies purely on base stats and Agility rather than bonus armor items; Natural Order removes 100% of every clone's base armor and magic resistance while Astral Spirit gains massive damage off all clones.
+  - **Meepo:** As an all-stat Universal hero, Meepo relies purely on base attributes rather than green bonus armor items; Natural Order removes 100% of every clone's base armor and magic resistance while Astral Spirit gains massive damage off all clones.
   - **Naga Siren:** Astral Spirit passes through all Mirror Image illusions to grant Elder Titan huge bonus attack damage and speed, while Natural Order strips Naga Siren's high base armor and magic resistance.
 
 ### Ember Spirit (Agility)
@@ -812,14 +813,14 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Chaos Knight:** Ice Path and Macropyre hit all Phantasm illusions simultaneously when Chaos Knight pulls them together with Reality Rift.
 
 ### Juggernaut (Agility)
-- **Key Weakness:** Juggernaut is heavily reliant on Omnislash to deal safe teamfight damage and becomes vulnerable to physical burst once Blade Fury expires.
+- **Key Weakness:** Base Blade Fury fully disarms Juggernaut during the spin unless he has Aghanim's Scepter (and only applies a basic dispel at the end), leaving him heavily reliant on Omnislash and vulnerable to physical burst once Blade Fury expires.
 - **Counter Heroes (Weak Against):**
   - **Ursa:** Easily manfights Juggernaut through Blade Fury with Fury Swipes and Overpower, and uses Enrage to tank Omnislash with minimal damage taken.
   - **Axe:** Berserker's Call pierces Blade Fury's debuff immunity, forcing Juggernaut to stay in place and take Counter Helix pure damage.
   - **Morphling:** Waveform dodges or repositions away from Juggernaut, and Attribute Shift (Strength gain) plus high armor lets him survive Omnislash easily.
   - **Outworld Destroyer:** Astral Imprisonment banishes either himself or an ally being targeted by Omnislash, immediately ending the ultimate.
 - **Counter Items:**
-  - **Ghost Scepter / Ethereal Blade:** Grants physical damage immunity, causing Omnislash and Swiftslash to deal zero damage if Juggernaut lacks Nullifier.
+  - **Ghost Scepter / Ethereal Blade:** Grants physical damage immunity, causing Omnislash and Aghanim's Scepter Blade Fury attacks to deal zero physical damage if Juggernaut lacks Nullifier.
   - **Eul's Scepter / Wind Waker:** Cyclones the target for 2.5 seconds during Omnislash, wasting most or all of the ultimate's duration.
   - **Lotus Orb:** Reflects Omnislash back onto Juggernaut if active when cast, creating chaos and counter-damage.
   - **Shadow Blade / Glimmer Cape:** Turning invisible without detection causes Omnislash to immediately stop bouncing to the target.
@@ -850,15 +851,15 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Troll Warlord:** Blinding Light applies miss chance and knockback to disrupt Troll's attack chains before he activates BKB.
 
 ### Kez (Agility)
-- **Key Weakness:** Kez relies heavily on rapid physical instant-attack combos (Falcon Rush, Echo Slash, Raptor Dance) and stance-switching mobility between Katana and Sai, making him vulnerable to hard lockdown, physical damage immunity, and counter-attack passives.
+- **Key Weakness:** Kez relies heavily on rapid physical attack combos (Falcon Rush, Echo Slash, and Raptor Dance—which deals physical attack damage and triggers on-hit effects) and stance-switching mobility between Katana and Sai, making him vulnerable to hard lockdown, physical damage immunity, and counter-attack passives.
 - **Counter Heroes (Weak Against):**
   - **Axe:** Berserker's Call pierces Raptor Dance's debuff immunity to interrupt his combo, and Kez's rapid multi-hit attacks from Falcon Rush and Echo Slash trigger constant Counter Helix spins.
   - **Faceless Void:** Time Walk backtracks the heavy burst damage from Kez's Katana impale or Sai combos, while Chronosphere locks down Kez regardless of his Grappling Claw mobility.
   - **Bane / Shadow Shaman:** Instant point-target disables like Fiend's Grip, Nightmare, and Hex lock Kez down before he can switch stances, parry with Sai, or go invisible with Raven's Veil.
   - **Ursa / Troll Warlord:** Out-trade Kez in direct melee combat via Fury Swipes/Enrage or Whirling Axes (Melee) blind and Battle Trance, punishing him whenever he rushes in with Falcon Rush.
 - **Counter Items:**
-  - **Ghost Scepter / Ethereal Blade:** Grants complete immunity to physical attacks, negating all damage from Echo Slash, Falcon Rush, and Talon Toss.
-  - **Heaven's Halberd:** Disarms Kez during Falcon Rush so he cannot execute his rushing attacks or apply Katana bleed stacks.
+  - **Ghost Scepter / Ethereal Blade:** Grants complete immunity to physical attacks, negating all physical attack damage from Echo Slash, Falcon Rush, Raptor Dance, and Talon Toss.
+  - **Heaven's Halberd / Skypiercer:** Disarms Kez during Falcon Rush so he cannot execute his rushing attacks or apply Katana bleed stacks.
   - **Crimson Guard / Shiva's Guard:** High armor and flat damage block drastically mitigate the rapid multi-hit physical instances of Falcon Rush and Echo Slash.
   - **Orchid Malevolence / Bloodthorn / Eul's Scepter:** Silences prevent Kez from swapping stances or casting Grappling Claw and Raptor Dance, while Eul's cyclones him to waste his Falcon Rush duration.
 - **Heroes Countered (Strong Against):**
@@ -901,7 +902,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Nullifier / Diffusal Blade / Disperser:** Nullifier continuously dispels Croak of Genius and Encore-extended buffs on enemy cores, while Diffusal/Disperser drains Largo's mana so his ultimate prematurely ends.
 - **Heroes Countered (Strong Against):**
   - **Bane:** Catchy Lick pulls a Nightmared or Fiend's Gripped ally toward Largo and applies a basic dispel on allies, while Frogstomp interrupts Bane's channeling from afar.
-  - **Venomancer:** Amphibian Rhapsody's healing melody (Island Elixir) and Catchy Lick's basic dispel and regeneration out-sustain Venomancer's Venomous Gale and Poison Nova damage over time.
+  - **Venomancer:** Amphibian Rhapsody's healing melody (Island Elixir) and Catchy Lick's basic dispel and regeneration out-sustain Venomancer's Venomous Gale and undispellable Noxious Plague damage over time.
   - **Sven:** Frogstomp's area movement slow and recurring ministuns kite Sven in teamfights, while Amphibian Rhapsody's speed song (Double Time) lets Largo's team disengage from God's Strength.
   - **Crystal Maiden:** Catchy Lick dispels Frostbite root on allies and pulls Crystal Maiden to cancel Freezing Field, while Croak of Genius empowers Largo's cores to burst her down.
 
@@ -1014,7 +1015,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Ember Spirit:** Instant Hex locks down Ember Spirit before he can cast Sleight of Fist or Activate Fire Remnant, setting up an easy Finger of Death execution.
 
 ### Lone Druid (Agility)
-- **Key Weakness:** Lone Druid's power is concentrated inside the Spirit Bear, meaning he is vulnerable if the Druid himself is jumped or if the Spirit Bear is kited and disabled from attacking.
+- **Key Weakness:** Lone Druid's power—and with Aghanim's Scepter, his lethal-damage spirit survival—is concentrated inside the Spirit Bear, meaning he is vulnerable if caught away from his Bear or if the Spirit Bear is kited, disabled, or killed while holding his spirit.
 - **Counter Heroes (Weak Against):**
   - **Winter Wyvern:** Winter's Curse forces either the Spirit Bear to maul Lone Druid to death or Lone Druid's teammates to kill him in seconds.
   - **Sniper:** Out-ranges both Lone Druid and the Spirit Bear with Take Aim, while Shrapnel and Headshot kite the Bear endlessly.
@@ -1034,7 +1035,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 ### Luna (Agility)
 - **Key Weakness:** Luna has very short attack range, low base HP, and no escape mechanism, and Eclipse becomes weak when enemies have debuff immunity or creep waves nearby to soak beams.
 - **Counter Heroes (Weak Against):**
-  - **Phantom Lancer:** Floods the fight with Juxtapose illusions that soak up all of Eclipse's Lucent Beams while Phantom Rush closes the gap to overwhelm Luna in melee range.
+  - **Phantom Lancer:** Floods the fight with Juxtapose illusions that soak up all of Eclipse's Lucent Beams while Phantom Rush closes the gap to overwhelm Luna in melee range with scaled Diffusal mana burn.
   - **Meepo:** Traps Luna with Earthbind and bursts her down rapidly while spreading Eclipse damage harmlessly across multiple clones.
   - **Lina / Sniper:** Out-range Luna's 330 base attack range by a huge margin, punishing her before she can ever step into right-click or Eclipse range.
   - **Bristleback:** Turns his back to absorb Moon Glaives bounces, triggering massive nasal goo/quill spray stacks across Luna and her entire team.
@@ -1131,8 +1132,8 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Invoker:** EMP burns a large percentage of Medusa's mana pool in an instant, while Tornado, Ice Wall, and Deafening Blast kite her immobile frame.
   - **Dark Seer:** Wall of Replica creates a full-strength Medusa illusion with Split Shot that decimates Medusa's own team in teamfights.
 - **Counter Items:**
-  - **Diffusal Blade / Disperser:** Burns mana on every physical hit from the wielding hero, shredding through Mana Shield faster than raw damage in the early-to-mid game.
-  - **Heaven's Halberd:** Disarms Medusa for an extended duration (as a ranged hero), shutting down her Split Shot damage output in fights.
+  - **Diffusal Blade / Disperser:** Burns mana on every physical hit from heroes (100% Item Potency) and illusions (20% Item Potency), shredding through Mana Shield far faster than raw damage.
+  - **Heaven's Halberd / Skypiercer:** Disarms Medusa for 3 seconds (with Skypiercer rapidly accelerating its cooldown when within 500 range), shutting down her Split Shot damage output in skirmishes.
   - **Crimson Guard:** Blocks a flat amount of physical damage from every Split Shot arrow across the entire team.
   - **Wind Waker / Force Staff:** Allows heroes to kite away and disengage whenever Medusa activates Stone Gaze.
 - **Heroes Countered (Strong Against):**
@@ -1141,10 +1142,10 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Lifestealer:** Stone Gaze pierces Rage and slows Lifestealer's movement, attack, and turn rates until he is petrified, completely wasting his Rage window.
   - **Meepo:** Mystic Snake bounces across all five Meepo clones to steal massive mana, while Split Shot and Stone Gaze hit every clone simultaneously.
 
-### Meepo (Agility)
+### Meepo (Universal)
 - **Key Weakness:** If a single Meepo clone dies, every Meepo dies automatically, making him vulnerable to AoE control that forces damage onto one clone or turns his numbers against him.
 - **Counter Heroes (Weak Against):**
-  - **Winter Wyvern:** Winter's Curse targets one Meepo and forces all other nearby Meepo clones to beat it to death in seconds with their high combined Agility right-click damage.
+  - **Winter Wyvern:** Winter's Curse targets one Meepo and forces all other nearby Meepo clones to beat it to death in seconds with their high combined Universal right-click damage.
   - **Earthshaker:** Echo Slam generates massive bonus echo waves off every Meepo clone grouped together, followed by Fissure and Aftershock chain-stuns.
   - **Elder Titan:** Astral Spirit gains immense bonus damage and armor reduction by passing through five Meepos, while Natural Order strips all of Meepo's base agility armor.
   - **Sven:** God's Strength and Great Cleave deal heavy splash damage across all grouped Meepo clones simultaneously, overwhelming Ransack healing.
@@ -1152,7 +1153,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Crimson Guard / Shiva's Guard:** Crimson Guard mitigates the rapid physical hits of multiple Meepo clones, while Shiva's Guard reduces Ransack healing and attack speed.
   - **Black King Bar:** Prevents Earthbind nets from rooting and blocks the massive magical burst damage of Poof.
   - **Aeon Disk / Ghost Scepter:** Buys crucial time for supports and cores when jumped by Blink Poof so teammates can counter-initiate.
-  - **Scythe of Vyse / Abyssal Blade:** Instant single-target lockdown isolates and bursts down a single Meepo clone before he can cast Dig or MegaMeepo.
+  - **Scythe of Vyse / Abyssal Blade:** Instant single-target lockdown isolates and bursts down a single Meepo clone before he can cast Aghanim's Scepter Dig or get tossed out via Aghanim's Shard Fling.
 - **Heroes Countered (Strong Against):**
   - **Anti-Mage:** Earthbind chains permanent nets on Anti-Mage that prevent him from casting Blink, while five Meepo clones beat him down with physical damage that ignores Counterspell.
   - **Storm Spirit:** Chained Earthbind roots completely disable Ball Lightning, trapping Storm Spirit in place once he zips in.
@@ -1172,7 +1173,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Orchid Malevolence / Bloodthorn / Gleipnir:** Silences or roots Mirana so she cannot cast Leap to escape ganks.
   - **Lotus Orb / Manta Style:** Dispels Sacred Arrow stun on an ally (with Lotus) or dodges incoming arrows and roots with Manta illusions.
 - **Heroes Countered (Strong Against):**
-  - **Chen:** Sacred Arrow instantly kills any non-ancient creep Chen controls with Holy Persuasion, stripping his army of its strongest aura and stun units.
+  - **Chen:** Sacred Arrow instantly kills any non-ancient, non-Zealot creep Chen controls with Holy Persuasion, stripping his army of key aura and stun units.
   - **Enchantress:** Sacred Arrow one-shots Enchanted neutral creeps from long range, and Moonlight Shadow allows Mirana's whole team to initiate onto Enchantress unseen.
   - **Crystal Maiden:** Crystal Maiden's low movement speed and stationary Freezing Field channeling make her an effortless target for long-range max-duration Sacred Arrows.
   - **Pudge:** Pudge must stand completely still while hooking or channeling Dismember, giving Mirana guaranteed 5-second Sacred Arrow stuns to interrupt him.
@@ -1224,11 +1225,11 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Black King Bar:** Grants debuff immunity and high magic resistance, negating the vast majority of Muerta's magical right-click damage during Pierce the Veil and blocking Dead Shot fears.
   - **Eternal Shroud:** Passively stacks high magic resistance and converts incoming magical damage from Pierce the Veil and The Calling into mana and survivability.
   - **Mage Slayer:** Reduces Muerta's spell damage output by 40% on attack, directly cutting the magical attack damage of Pierce the Veil.
-  - **Revenant's Brooch:** Allows physical carries to convert their attacks into magical damage that hits through Muerta's ethereal state during Pierce the Veil.
+  - **Blade Mail / Scythe of Vyse:** Blade Mail reflects Pierce the Veil's high magical attack damage back into Muerta when her BKB is down, while Scythe of Vyse hexes her before she can pop her ultimate (especially now that Revenant's Brooch is a neutral item rather than a shop counter).
 - **Heroes Countered (Strong Against):**
   - **Necrophos:** Pierce the Veil converts Muerta's attacks into magical damage that hits directly through Ghost Shroud while exploiting its bonus magic damage vulnerability.
   - **Morphling:** Morphling's 40+ armor from high Agility provides zero protection against Pierce the Veil's high-damage magical right-clicks and Gunslinger double shots.
-  - **Phantom Assassin:** Pierce the Veil grants physical attack immunity against Phantom Strike and Coup de Grace unless PA has Revenant's Brooch, while magical right-clicks shred PA's low HP pool.
+  - **Phantom Assassin:** Pierce the Veil grants complete physical attack immunity against Stifling Dagger, Phantom Strike, and Coup de Grace, while magical right-clicks shred PA's low HP pool.
   - **Pugna:** Muerta can attack right through Decrepify during Pierce the Veil, turning Pugna's primary defensive save and amplified magic damage penalty against him.
 
 ## N
@@ -1400,12 +1401,12 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 ## P
 
 ### Pangolier (Universal)
-- **Key Weakness:** Relies on turn-rate-constrained Rolling Thunder and Swashbuckle mobility for survival and disruption, making him vulnerable to BKB-piercing roots, leashes, and instant disables.
+- **Key Weakness:** Relies on turn-rate-constrained Rolling Thunder and Swashbuckle mobility (with 60% Item Potency slashes) for survival and disruption, making him vulnerable to BKB-piercing roots, leashes, and instant disables.
 - **Counter Heroes (Weak Against):**
   - **Bloodseeker:** Rupture pierces Rolling Thunder's debuff immunity and deals massive pure damage based on distance traveled, forcing Pangolier to cancel his roll or die moving.
-  - **Grimstroke:** Soulbind leashes Pangolier in place and prevents him from casting Swashbuckle, while forcing Rolling Thunder to bounce awkwardly within the tether radius.
+  - **Grimstroke:** Soulbind pierces debuff immunity to leash Pangolier in place and prevent him from casting Swashbuckle, while forcing Rolling Thunder to bounce awkwardly within the tether radius.
   - **Beastmaster:** Primal Roar pierces Rolling Thunder's debuff immunity, stunning Pangolier in place and knocking aside nearby units so his team can burst him down.
-  - **Puck:** Dream Coil leashes Pangolier so he cannot cast Swashbuckle to escape, and Aghanim's Scepter Dream Coil pierces Rolling Thunder's immunity on coil break.
+  - **Puck:** Waning Rift silences Pangolier to block Swashbuckle, while Dream Coil punishes Swashbuckle or Rolling Thunder escapes by snapping the coil for a stun (piercing Rolling Thunder's debuff immunity with Aghanim's Scepter).
 - **Counter Items:**
   - **Abyssal Blade:** Overwhelm pierces Rolling Thunder's debuff immunity, stunning Pangolier mid-roll from melee range and halting his momentum.
   - **Gleipnir / Rod of Atos:** Roots Pangolier from long range before he can finish the cast animation of Rolling Thunder, preventing him from casting Swashbuckle to flee.
@@ -1418,25 +1419,25 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Chaos Knight:** Rolling Thunder bowls through Phantasm illusions to stun the entire pack while Shield Crash stacks a huge protective barrier off the clustered clones.
 
 ### Phantom Assassin (Agility)
-- **Key Weakness:** Fragile against magical and pure burst damage early on, and heavily reliant on Blur evasion and BKB timings to survive against True Strike physical carries.
+- **Key Weakness:** Fragile against magical and pure burst damage early on, and heavily reliant on Immaterial evasion, Blur's True-Sight-immune vanish positioning, and BKB timings to survive against True Strike physical carries.
 - **Counter Heroes (Weak Against):**
   - **Axe:** Berserker's Call pierces Black King Bar to force Phantom Assassin to attack Axe into Blade Mail and Counter Helix, where her own Coup de Grace crits kill her instantly.
-  - **Morphling:** Waveform and Adaptive Strike dish out enormous magical burst damage that completely bypasses Blur's high physical evasion, while high Agility grants massive armor against Stifling Dagger.
-  - **Timbersaw:** Whirling Death, Timber Chain, and Chakram deal pure damage that ignores Blur evasion and shreds her low base HP pool while Reactive Armor tanks her early daggers.
+  - **Morphling:** Waveform and Adaptive Strike dish out enormous magical burst damage that completely bypasses Immaterial's high physical evasion, while high Agility grants massive armor against Stifling Dagger.
+  - **Timbersaw:** Whirling Death, Timber Chain, and Chakram deal pure damage that ignores Immaterial evasion and shreds her low base HP pool while Reactive Armor tanks her early daggers.
   - **Bane:** Fiend's Grip pierces Black King Bar to disable Phantom Assassin for her entire BKB duration, and Enfeeble reduces her attack damage and cast range.
 - **Counter Items:**
-  - **Monkey King Bar:** Pierce grants an 80% chance to pierce evasion and deal bonus magical damage on every attack, neutralizing Blur's 50%+ evasion passive.
+  - **Monkey King Bar:** Pierce grants True Strike procs and bonus magical damage on attacks, neutralizing Phantom Assassin's high Immaterial evasion passive.
   - **Blade Mail:** Reflects Phantom Assassin's massive Coup de Grace critical strikes right back at her as physical damage when her BKB is down or alongside BKB-piercing taunts.
   - **Ghost Scepter / Ethereal Blade:** Renders supports and backliners immune to Stifling Dagger and Phantom Strike physical attacks, forcing Phantom Assassin to buy Nullifier.
-  - **Silver Edge:** Applies Break on the shadow walk attack, disabling both Blur's evasion and Coup de Grace's critical strike passive for the duration.
+  - **Silver Edge:** Applies Break on the shadow walk attack, disabling both Immaterial's evasion and Coup de Grace's critical strike passive for the duration.
 - **Heroes Countered (Strong Against):**
-  - **Sniper:** Phantom Strike closes the gap onto Sniper from long range, Blur hides PA from the minimap while approaching, and Coup de Grace deletes Sniper's low armor and HP in two hits.
+  - **Sniper:** Blur grants True-Sight-immune invisibility outside its vanish radius to approach undetected, Phantom Strike closes the gap from long range, and Coup de Grace deletes Sniper in two hits.
   - **Drow Ranger:** Phantom Strike jumps right inside Drow Ranger's 400-radius Marksmanship deactivation zone, disabling her bonus agility and armor so PA can burst her instantly.
   - **Anti-Mage:** Phantom Assassin deals pure physical burst damage that completely ignores Counterspell, and Blur evasion forces Anti-Mage into buying an awkward Monkey King Bar.
   - **Crystal Maiden:** Stifling Dagger and Phantom Strike allow PA to eliminate fragile, low-armor backline supports like Crystal Maiden in a single Coup de Grace crit.
 
 ### Phantom Lancer (Agility)
-- **Key Weakness:** Relies on swarming targets with low-health Juxtapose illusions and sustained melee pressure, making him weak to heavy AoE magical/cleave damage and area crowd control.
+- **Key Weakness:** Relies on swarming targets with low-health Juxtapose illusions and scaled Item Potency on-hit pressure (such as 20%-potency Diffusal mana burn), making him weak to heavy AoE magical/cleave damage and area crowd control.
 - **Counter Heroes (Weak Against):**
   - **Leshrac:** Pulse Nova and Split Earth deal continuous, massive AoE magical damage around Leshrac, clearing Juxtapose illusions as fast as Phantom Lancer can spawn them.
   - **Earthshaker:** Echo Slam scales exponentially with every Juxtapose illusion present, turning Phantom Lancer's army into an instant lethal nuke against himself and his teammates.
@@ -1448,7 +1449,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Shiva's Guard:** Arctic Blast deals AoE magic damage that immediately reveals which Phantom Lancer has the real health pool, slows illusion attack speed, and reduces his healing.
   - **Radiance:** Inflicts a 15% AoE miss chance and constant magical burn that weakens Juxtapose illusions and prevents Phantom Lancer from blinking if he buys Blink Dagger.
 - **Heroes Countered (Strong Against):**
-  - **Wraith King:** Doppelganger dodges Wraithfire Blast while Juxtapose swarms overwhelm Wraith King's strictly single-target Mortal Strike right-clicks and kite him endlessly across fights.
+  - **Wraith King:** Doppelganger dodges Wraithfire Blast while Juxtapose swarms apply Diffusal Blade mana burn (via 20% Item Potency) and overwhelm Wraith King's strictly single-target Mortal Strike right-clicks.
   - **Viper:** Doppelganger dispels Viper Strike and Poison Attack, and Viper's purely single-target kit has no way to clear or identify the real Phantom Lancer among his illusions.
   - **Clockwerk:** Doppelganger allows Phantom Lancer and his illusions to hop straight out of Power Cogs while Juxtapose illusions dilute Battery Assault procs across the swarm.
   - **Slardar:** Doppelganger immediately cleanses Corrosive Haze on a low cooldown, and Slardar lacks any AoE damage to deal with Juxtapose swarms.
@@ -1458,7 +1459,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Heroes (Weak Against):**
   - **Snapfire:** Lil' Shredder fires 6 rapid attacks at fixed maximum attack speed regardless of Fire Spirits' attack speed slow, shredding over half of the Supernova egg hits alone.
   - **Ursa:** Overpower grants maximum attack speed for multiple consecutive strikes and Enrage provides high status resistance against Fire Spirits, allowing Ursa to solo-kill the Supernova egg.
-  - **Juggernaut:** Blade Fury grants debuff immunity to completely ignore Fire Spirits' attack speed slow while allowing Juggernaut to attack the Supernova egg at his full high attack speed.
+  - **Juggernaut:** With Aghanim's Scepter (or after cleansing Fire Spirits via Manta Style / Blade Fury's basic dispel), Juggernaut ignores Fire Spirits' attack speed slow and shreds the Supernova egg with his fast base attack time.
   - **Silencer:** Global Silence interrupts Icarus Dive from anywhere on the map, preventing Phoenix from returning to safety or casting Supernova after diving into a fight.
 - **Counter Items:**
   - **Black King Bar:** Cleanses the crippling attack speed slow of Fire Spirits and grants debuff immunity, allowing cores to hit the Supernova egg at full speed and ignore the stun if it explodes.
@@ -1502,9 +1503,9 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Gleipnir / Rod of Atos:** Roots Puck so it cannot cast Waning Rift or Ethereal Jaunt to jump to an Illusory Orb, though Puck can still Phase Shift briefly in place.
   - **Nullifier:** Dispels Puck when it uses Eul's Scepter of Divinity or Wind Waker to wait out silences and wait for Phase Shift/Illusory Orb cooldowns.
 - **Heroes Countered (Strong Against):**
-  - **Queen of Pain:** Phase Shift dodges Shadow Strike and Scream of Pain, Waning Rift silences Queen of Pain, and Dream Coil leashes her so she cannot cast Blink.
-  - **Anti-Mage:** Dream Coil leashes Anti-Mage in place so he cannot cast Blink to escape, and Aghanim's Scepter Dream Coil pierces Black King Bar and fires rapid attacks into him.
-  - **Weaver:** Waning Rift silences Weaver and Dream Coil leashes him so he cannot cast Time Lapse or Shukuchi to escape.
+  - **Queen of Pain:** Phase Shift dodges Shadow Strike and Scream of Pain, Waning Rift silences Queen of Pain, and Dream Coil punishes Blink escapes by snapping the tether for a stun (or locking Blink completely with Aghanim's Scepter).
+  - **Anti-Mage:** Waning Rift silences Anti-Mage while Dream Coil snaps and stuns him if he Blinks out, and Aghanim's Scepter Dream Coil pierces Black King Bar to fully lock Blink and fire rapid attacks into him.
+  - **Weaver:** Waning Rift silences Weaver and Dream Coil stuns him if he tries to Shukuchi or Time Lapse outside the coil radius.
   - **Terrorblade:** Puck's elusive magical AoE burst clears Conjure Image illusions from afar and kites Terrorblade during Metamorphosis without ever letting him land Sunder.
 
 ### Pudge (Strength)
@@ -1548,7 +1549,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 ### Queen of Pain (Intelligence)
 - **Key Weakness:** A fragile mobility spellcaster who must Blink close to fights to maximize Scream of Pain and Sonic Wave, making her vulnerable to instant silences, hexes, and spell reflection.
 - **Counter Heroes (Weak Against):**
-  - **Puck:** Phase Shift easily dodges Shadow Strike projectiles and Scream of Pain, while Waning Rift silences Queen of Pain and Dream Coil leashes her so she cannot cast Blink.
+  - **Puck:** Phase Shift easily dodges Shadow Strike projectiles and Scream of Pain, while Waning Rift silences Queen of Pain and Dream Coil snaps to stun her if she Blinks away (or locks Blink completely with Aghanim's Scepter).
   - **Anti-Mage:** Mana Void deals devastating AoE damage based on Queen of Pain's large intelligence pool after she expends mana on spells, and Counterspell can reflect Shadow Strike.
   - **Disruptor:** Glimpse drags Queen of Pain all the way back to her previous location right after she uses Blink to escape, stranding her inside Static Storm and Kinetic Field.
   - **Night Stalker:** Crippling Fear silences Queen of Pain in a moving AoE that she cannot Blink out of once Night Stalker closes the gap during Dark Ascension.
@@ -1660,7 +1661,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 ### Shadow Demon (Intelligence)
 - **Key Weakness:** A slow, fragile backline support with zero mobility spells who dies rapidly when jumped directly by gap-closers or overwhelmed by illusion and Zoo summons.
 - **Counter Heroes (Weak Against):**
-  - **Lycan:** Wolves, Helm of the Overlord creeps, and Shapeshift run straight past the frontline to maul Shadow Demon, and Disruption creates weak illusions of Lycan that lack Shapeshift haste.
+  - **Lycan:** Wolves, dominated creeps, and Shapeshift run straight past the frontline to maul Shadow Demon, and Disruption creates weak illusions of Lycan that lack Shapeshift haste.
   - **Beastmaster:** Call of the Wild Boars and Hawks scout and slow Shadow Demon from range while Inner Beast summons overwhelm his single-target Disruption and Demonic Purge.
   - **Storm Spirit:** Ball Lightning jumps past the entire enemy team to burst Shadow Demon in the backline first, forcing him to waste Disruption defensively on himself.
   - **Ember Spirit:** Sleight of Fist dodges Shadow Poison waves and Demonic Purge projectiles while Fire Remnant allows Ember to dive and eliminate Shadow Demon in the backline.
@@ -1676,7 +1677,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Necrophos:** Disruption banishes an ally targeted by Reaper's Scythe so they are completely invulnerable when the scythe lands, and Demonic Purge strips Ghost Shroud.
 
 ### Shadow Fiend (Agility)
-- **Key Weakness:** A glass-cannon core with zero innate mobility or escape mechanisms who depends on channeling Requiem of Souls and stacking Presence of the Dark Lord, making him vulnerable to long-range stuns and BKB-piercing disables.
+- **Key Weakness:** A glass-cannon core with zero innate mobility or escape mechanisms who depends on channeling Requiem of Souls and Presence of the Dark Lord's armor and magic resistance reduction, making him vulnerable to long-range stuns and BKB-piercing disables.
 - **Counter Heroes (Weak Against):**
   - **Tusk:** Walrus Punch and Snowball pierce or interrupt Shadow Fiend's Requiem of Souls channel and catch him easily due to his lack of mobility, while Tag Team shreds him in lane.
   - **Clockwerk:** Hookshot stuns Shadow Fiend from 2000+ range through Black King Bar during his Requiem of Souls channel, and Battery Assault prevents him from casting Shadowraze cleanly.
@@ -1685,8 +1686,8 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Items:**
   - **Black King Bar:** Blocks all Shadowraze magic damage and fully negates the damage and fear duration of Requiem of Souls, allowing cores to walk right up and kill Shadow Fiend.
   - **Abyssal Blade:** Overwhelm pierces Black King Bar to instantly interrupt Shadow Fiend's 1.67-second Requiem of Souls cast animation from melee range.
-  - **Heaven's Halberd:** Disarms right-click Shadow Fiend for 5 seconds on ranged heroes, completely shutting down his physical DPS during skirmishes before he pops BKB.
-  - **Assault Cuirass:** Provides an AoE +5 armor aura that directly counteracts Presence of the Dark Lord's negative armor aura for the entire team.
+  - **Heaven's Halberd / Skypiercer:** Disarms right-click Shadow Fiend for 3 seconds (with Skypiercer rapidly recharging in close range), shutting down his physical DPS during skirmishes before he pops BKB.
+  - **Assault Cuirass / Pipe of Insight:** Assault Cuirass's +5 armor aura and Pipe's magic resistance aura directly counteract Presence of the Dark Lord's armor and magic resistance reduction for the entire team.
 - **Heroes Countered (Strong Against):**
   - **Slark:** Shadowraze AoE bursts hit Slark right through his Shadow Dance cloud without needing a unit target, and Presence of the Dark Lord shreds Slark's low base armor.
   - **Nature's Prophet:** Triple Shadowraze easily clears Treants for bonus Necromastery souls and punishes Nature's Prophet if he tries to stand his ground and trade hits.
@@ -1766,14 +1767,14 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Alchemist:** Alchemist suffers from very low base armor, so Corrosive Haze drops him into deep negative armor where Slardar's Bash of the Deep hits out-damage Chemical Rage regeneration.
 
 ### Slark (Agility)
-- **Key Weakness:** Has low base attribute growth and relies on purging single-target disables with Dark Pact and becoming untargetable in Shadow Dance, making him vulnerable to AoE ground disables, instant burst damage, and forced movement.
+- **Key Weakness:** Has low base attribute growth and relies on Dark Pact dispels, Shadow Dance untargetability, and Pounce (whose non-piercing leash no longer blocks enemy movement abilities), making him vulnerable to AoE ground disables, instant burst, and mobile escapes.
 - **Counter Heroes (Weak Against):**
   - **Disruptor:** Glimpse pulls Slark back after Pounce, and Static Storm plus Kinetic Field trap and silence him inside an AoE ground zone that hits him even during Shadow Dance.
   - **Bloodseeker:** Rupture forces Slark to stay still or take lethal pure damage from Pounce and Shadow Dance movement speed, while Thirst passively reveals Slark whenever his HP drops below the threshold, disabling Essence Shift/Shadow Dance passive regen.
   - **Leshrac:** Pulse Nova, Diabolic Edict, and Split Earth deal massive AoE damage without requiring a unit target, melting Slark right through his Shadow Dance cloud and low health pool.
   - **Faceless Void:** Chronosphere traps Slark in an AoE sphere that completely ignores Dark Pact's continuous dispels and allows Faceless Void to hit Slark even during Shadow Dance.
 - **Counter Items:**
-  - **Force Staff / Hurricane Pike:** Pushes yourself or an ally immediately out of Pounce's leash tether, snapping the leash and preventing Slark from building Essence Shift stacks.
+  - **Force Staff / Caduceus / Hurricane Pike:** Pushes yourself or an ally immediately out of Pounce's leash tether, snapping the leash (alongside native movement spells, which Pounce no longer blocks) and preventing Slark from stacking Essence Shift.
   - **Scythe of Vyse / Orchid Malevolence:** Catches Slark with an instant disable if cast *after* Dark Pact finishes or before he can press Dark Pact's 1.5-second delay window.
   - **Ghost Scepter:** Prevents Slark from landing right-click attacks to steal attributes with Essence Shift during his Shadow Dance or Black King Bar duration.
   - **Gleipnir / Bloodthorn:** Gleipnir's AoE root reveals Slark's location inside fog or trees, while Bloodthorn bursts his low base HP pool if applied after Dark Pact ends.
@@ -1811,7 +1812,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Items:**
   - **Blink Dagger:** Essential for closing the massive gap created by Take Aim and Headshot knockbacks so melee cores can reach him.
   - **Blade Mail:** Reflects Sniper's high physical DPS or Assassinate damage right back at his fragile health pool, forcing him to stop attacking.
-  - **Heaven's Halberd:** Disarms Sniper for a long duration on ranged heroes, completely shutting down his right-click output during Take Aim and Satanic activations.
+  - **Heaven's Halberd / Skypiercer:** Disarms Sniper for 3 seconds once an initiator closes within 500 range (with Skypiercer rapidly recharging its disarm while staying on top of him), shutting down Take Aim and Satanic turns.
   - **Ghost Scepter:** Grants ethereal form to supports and cores, making them immune to Sniper's relentless physical right-clicks.
 - **Heroes Countered (Strong Against):**
   - **Enigma:** Sniper stands well outside Black Hole's initiation radius using Take Aim and cancels Black Hole or forces Enigma back with Shrapnel vision and Assassinate mini-stun/burst.
@@ -1861,7 +1862,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Anti-Mage:** Mana Break drains Storm Spirit's massive mana pool rapidly, turning him into a walking Mana Void bomb that can wipe his entire team.
   - **Silencer:** Global Silence stops Storm Spirit mid-fight after he zips in with Ball Lightning, while Arcane Curse and Last Word punish his rapid spell casting.
   - **Nyx Assassin:** Spiked Carapace easily stuns Storm Spirit off Static Remnant or Overload splash damage, and Mind Flare / Vendetta punish his high intelligence and mana pool.
-  - **Puck:** Waning Rift provides an instant AoE silence and Dream Coil's leash prevents Storm Spirit from casting Ball Lightning without snapping the coil and getting stunned.
+  - **Puck:** Waning Rift provides an instant AoE silence and Dream Coil forces Storm Spirit to snap the coil and get stunned if he casts Ball Lightning to escape (or locks Ball Lightning completely with Aghanim's Scepter).
 - **Counter Items:**
   - **Orchid Malevolence / Bloodthorn:** Silences Storm Spirit instantly, preventing him from casting Ball Lightning to escape until he purchases a dispel.
   - **Scythe of Vyse:** Instant hex disables Storm Spirit before he can react with Ball Lightning, allowing your team to burst him down.
@@ -1897,7 +1898,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Key Weakness:** Techies relies heavily on Blast Off! combo initiation and Proximity Mines placement, suffering greatly once enemies gain magic immunity or flying vision/detection.
 - **Counter Heroes (Weak Against):**
   - **Lifestealer:** Rage grants free debuff immunity to walk over Proximity Mines, clear them safely, and completely ignore the damage and stun of Blast Off!.
-  - **Juggernaut:** Blade Fury lets him spin through Proximity Mines and Sticky Bombs unscathed while destroying mines with his fast base attack time.
+  - **Juggernaut:** Blade Fury lets him spin over Proximity Mines and Sticky Bombs unscathed to detonate them harmlessly (or attack mines while spinning once he has Aghanim's Scepter).
   - **Abaddon:** Aphotic Shield dispels Sticky Bombs and Reactive Tazer, while Borrowed Time turns massive Proximity Mine clusters into free full-health heals.
   - **Zeus:** Lightning Bolt and Thundergod's Wrath reveal hidden areas and provide high-ground vision to spot Proximity Mine traps before walking up ramps.
 - **Counter Items:**
@@ -1930,7 +1931,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Sven:** Sven's slow, heavy single-hit God's Strength attacks are completely absorbed by single charges of Refraction, while Meld armor reduction strips away his Warcry bonus.
 
 ### Terrorblade (Agility)
-- **Key Weakness:** Terrorblade has a small base health pool with high vulnerability to magical and pure burst damage, and relies on landing Sunder before he is stunned or silenced to death.
+- **Key Weakness:** Terrorblade has a small base health pool with high vulnerability to magical/pure burst damage, Break (which disables his Dark Unity innate), and instant lockdown before he can land Sunder.
 - **Counter Heroes (Weak Against):**
   - **Zeus:** Arc Lightning, Lightning Bolt, and Thundergod's Wrath bypass Terrorblade's sky-high base armor to shred his illusions and low HP pool with magical burst.
   - **Lina:** Dragon Slave and Light Strike Array clear Conjure Image illusions effortlessly, while Laguna Blade bursts Terrorblade from high HP before he can cast Sunder.
@@ -1942,7 +1943,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Scythe of Vyse:** Instant hex prevents Terrorblade from pressing Sunder or Black King Bar when his health drops low.
   - **Dagon / Shiva's Guard:** Shiva's Guard amplifies spell damage, slows his attack speed, and deals bonus damage to illusions, while Dagon bursts him before Sunder.
 - **Heroes Countered (Strong Against):**
-  - **Anti-Mage:** Reflection creates an untargetable illusion of Anti-Mage that burns Anti-Mage's own mana with Mana Break, while Terrorblade's huge base armor shrugs off Anti-Mage's physical damage.
+  - **Anti-Mage:** Reflection creates an untargetable illusion of Anti-Mage (with 25% Item Potency plus his full Mana Break passive) that burns Anti-Mage's own mana, while Terrorblade's huge base armor shrugs off physical hits.
   - **Luna:** Reflection copies Luna's Moon Glaives and Lunar Blessing aura to shred Luna's own team with her own glaives, and Metamorphosis out-ranges and out-trades her in fights.
   - **Spectre:** Reflection creates an illusion of Spectre that applies Desolate pure damage back onto Spectre if she is isolated, and Sunder punishes Spectre's high-HP tank build.
   - **Lifestealer:** Terrorblade's sky-high base agility and armor mitigate Lifestealer's physical attacks, while Sunder swaps away Lifestealer's full health bar even if he heals with Feast.
@@ -2116,7 +2117,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Heroes (Weak Against):**
   - **Windranger:** Windrun grants 100% evasion against Ursa's Overpower attacks while slowing him, and Focus Fire lets her kite and melt him from range while running away.
   - **Viper:** Nethertoxin applies Break to disable Fury Swipes—cutting Ursa's damage output to almost nothing—while Viper Strike pierces BKB to slow him through Enrage.
-  - **Phantom Lancer:** Surrounds Ursa with dozens of Juxtapose illusions and resets target tracking with Doppelganger so Ursa wastes Overpower stacks without building Fury Swipes on the real hero.
+  - **Phantom Lancer:** Surrounds Ursa with dozens of Juxtapose illusions that chip away at his mana via scaled Diffusal Blade Item Potency while Doppelganger resets target tracking so Ursa wastes Overpower stacks.
   - **Razor:** Static Link steals Ursa's physical damage even through BKB and Enrage, while Storm Surge makes Razor too fast for Ursa to catch.
 - **Counter Items:**
   - **Ghost Scepter / Ethereal Blade:** Renders the target completely immune to Ursa's physical Overpower and Fury Swipes burst damage.
@@ -2150,16 +2151,16 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Meepo:** Nether Swap isolates a single Meepo clone deep into Vengeful Spirit's team, and even if Venge dies in return, her Aghanim's Scepter illusion continues fighting with all her spells.
 
 ### Venomancer (Universal)
-- **Key Weakness:** Venomancer is a fragile, slow hero with zero mobility or hard disable whose entire damage output consists of dispellable magical damage-over-time effects.
+- **Key Weakness:** Venomancer is a fragile, slow hero with zero mobility or hard disable; even though Noxious Plague's damage and slow cannot be dispelled and Plague Wards stack Poison Sting, his entire magical damage-over-time output is countered by magic immunity, magic barriers, and gap-closing burst.
 - **Counter Heroes (Weak Against):**
-  - **Lifestealer:** Rage dispels Venomous Gale and Poison Sting while providing magic immunity, and he can Infest or feast on Venomancer easily since Veno has no escape.
-  - **Juggernaut:** Blade Fury dispels Venomous Gale and blocks all of Venomancer's poison damage, allowing Juggernaut to run him down or kill him with Omnislash.
-  - **Oracle:** Fortune's End dispels Venomous Gale in an AoE on allies, and Fate's Edict grants 100% magic damage resistance to completely negate Noxious Plague and Poison Sting.
-  - **Abaddon:** Aphotic Shield applies a strong dispel to instantly remove Venomous Gale and Latent Toxicity from teammates, while Mist Coil and Borrowed Time out-sustain his DoTs.
+  - **Lifestealer:** Rage dispels Venomous Gale and Poison Sting while blocking Noxious Plague's magical damage and slow, allowing Lifestealer to easily run down the immobile Venomancer.
+  - **Juggernaut:** Blade Fury dispels Venomous Gale and blocks all magical poison damage from Poison Sting and Noxious Plague, allowing Juggernaut to close in and kill him with Omnislash.
+  - **Oracle:** Fortune's End dispels Venomous Gale in an AoE on allies, and Fate's Edict grants 100% magic damage resistance to completely negate the undispellable Noxious Plague and Poison Sting.
+  - **Abaddon:** Aphotic Shield applies a strong dispel to instantly remove Venomous Gale from teammates while absorbing Noxious Plague ticks, and Borrowed Time converts all poison DoTs into healing.
 - **Counter Items:**
   - **Pipe of Insight:** Provides passive magic resistance and an active team-wide magic barrier that absorbs Noxious Plague, Venomous Gale, and Poison Sting ticks.
-  - **Black King Bar:** Dispels Venomous Gale and grants complete immunity to all of Venomancer's magical damage and slows.
-  - **Lotus Orb / Manta Style:** Basic dispels remove Venomous Gale and Poison Sting slows immediately, allowing cores to close the gap or escape.
+  - **Black King Bar:** Dispels Venomous Gale and grants debuff immunity plus high magic resistance to ignore all of Venomancer's magical damage and slows, including Noxious Plague.
+  - **Lotus Orb / Manta Style:** Basic dispels remove Venomous Gale and Poison Sting slows immediately (though Noxious Plague persists), helping cores close the gap or disengage.
   - **Blink Dagger:** Allows initiators to jump straight past Plague Wards onto Venomancer's fragile body and burst him down in seconds.
 - **Heroes Countered (Strong Against):**
   - **Templar Assassin:** Venomous Gale, Poison Sting, and Plague Wards apply relentless rapid damage-over-time ticks that melt all of Templar Assassin's Refraction charges in an instant and disable her Blink Dagger.
@@ -2209,7 +2210,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Meepo:** Chained Earthbind nets prevent Void Spirit from casting Dissimilate or Astral Step to escape, while multiple Meepo clones sustain through his burst with Ransack and overwhelm his physical barrier from Resonant Pulse.
   - **Silencer:** Global Silence and Last Word stop Void Spirit after he commits his first Astral Step into a fight, preventing him from using Dissimilate or his second charge to escape.
   - **Dragon Knight:** Dragon Tail provides an instant-cast stun in melee range when Void Spirit jumps in, and Corrosive Breath/Elder Dragon Form tank through his burst easily.
-  - **Puck:** Waning Rift instantly silences Void Spirit, and Dream Coil's leash disables both Dissimilate and Astral Step completely while active.
+  - **Puck:** Waning Rift instantly silences Void Spirit, and Dream Coil snaps to stun him if he casts Astral Step or Dissimilate outside its radius (or locks his mobility spells completely with Aghanim's Scepter).
 - **Counter Items:**
   - **Orchid Malevolence / Bloodthorn:** Silences Void Spirit before he can evade with Dissimilate or escape with Astral Step, forcing him into defensive items early.
   - **Rod of Atos / Gleipnir:** Roots disable both Dissimilate and Astral Step, locking Void Spirit in place until the root expires or is dispelled.
@@ -2246,7 +2247,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Counter Heroes (Weak Against):**
   - **Faceless Void:** Time Dilation freezes Shukuchi cooldown so Weaver cannot go invisible or move fast, and Chronosphere traps him for an easy kill before he can cast Time Lapse.
   - **Bloodseeker:** Rupture punishes Weaver's reliance on high-speed Shukuchi movement—forcing him to stand still or bleed to death—and even if he Time Lapses, Rupture remains active.
-  - **Puck:** Waning Rift silences Weaver instantly, and Dream Coil's leash prevents him from casting Time Lapse while leashed and stuns him if he tries to Shukuchi away.
+  - **Puck:** Waning Rift silences Weaver instantly so he cannot cast Time Lapse, and Dream Coil stuns him if he tries to Shukuchi or Time Lapse outside the tether radius (or fully blocks movement spells with Aghanim's Scepter).
   - **Riki:** Smoke Screen silences Weaver and applies miss chance inside the cloud so he cannot cast Shukuchi or Time Lapse until he walks all the way out of the smoke.
 - **Counter Items:**
   - **Orchid Malevolence / Bloodthorn:** Instant silence stops Weaver from casting Shukuchi or Time Lapse, forcing him to rush Linken's Sphere, Manta Style, or BKB.
@@ -2260,7 +2261,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
   - **Venomancer:** Shukuchi grants unslowable maximum movement speed that completely ignores Venomous Gale and Poison Sting slows, and Time Lapse purges Venomous Gale while restoring all lost HP.
 
 ### Windranger (Universal)
-- **Key Weakness:** Windranger relies on Windrun's evasion to survive physical attacks and Focus Fire on a single target, making her vulnerable to dispel effects, Blade Mail, and magical burst.
+- **Key Weakness:** Windranger relies on Windrun's evasion (with Tailwind stack generation disabled by Break) and single-target Focus Fire (at 75% Item Potency), making her vulnerable to dispel effects, Blade Mail, and magical burst.
 - **Counter Heroes (Weak Against):**
   - **Centaur Warrunner:** Retaliate combined with Blade Mail punishes Windranger's rapid Focus Fire attacks severely, forcing her to stop attacking or kill herself on his high HP pool.
   - **Axe:** Berserker's Call locks Windranger down through Windrun, and Blade Mail reflects every single Focus Fire arrow right back into her fragile health pool.
@@ -2317,7 +2318,7 @@ A comprehensive, alphabetical reference of every hero in **Dota 2** (all 127 her
 - **Key Weakness:** Wraith King is a slow, kiteable melee core who requires sufficient mana (prior to level 20 talent) to trigger Reincarnation and struggles against illusion/mana-burn heroes.
 - **Counter Heroes (Weak Against):**
   - **Anti-Mage:** Mana Break burns away Wraith King's mana pool before he dies so Reincarnation cannot trigger prior to level 20, and Blink easily kites him across fights.
-  - **Phantom Lancer:** Surrounds Wraith King with Juxtapose illusions that overwhelm his strictly single-target Wraithfire Blast and Mortal Strike right-clicks while Doppelganger easily dodges his stun.
+  - **Phantom Lancer:** Surrounds Wraith King with Juxtapose illusions that drain his mana via Diffusal Blade's 20% illusion Item Potency and overwhelm his strictly single-target Wraithfire Blast and Mortal Strike right-clicks.
   - **Undying:** Decay steals Wraith King's strength repeatedly, and when Wraith King revives from Reincarnation, he comes back with the reduced max HP from all accumulated Decay stacks.
   - **Invoker:** EMP drains a huge chunk of Wraith King's mana pool in teamfights, while Cold Snap, Tornado, and Ice Wall kite him effortlessly through both of his lives.
 - **Counter Items:**
